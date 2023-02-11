@@ -1,5 +1,5 @@
 # Click-2.0 (On Pause)
-*Currently on pause until graduation*
+*Currently on pause*
 
 Documenting the intergration of smartness/automation into my robot computer xy plotter
 
